@@ -1,4 +1,5 @@
 pas stanga
 pas dreapta 
+meri inainte si inapoi
 sari in sus si in jos
 pana curcubeu va dansa
